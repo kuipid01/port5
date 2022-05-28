@@ -1,0 +1,32 @@
+
+    <div class="slider-container">
+        <div class="container" id="sliderContain">
+            <div class="slider-text-container">
+                <img src="./media/img2.jpg" alt="">
+                <div class="textmain-slide">
+                    <h3>Mordern Website</h3>
+                    <p>
+                        Website appropriate to do services , with ui compliments and animated interactions
+                    </p>
+                    <button class="btn">Demo 
+                        <i class="uil uil-arrow-right"></i>
+                    </button>
+                </div>
+            </div>
+         
+        </div>
+       
+
+
+        class
+
+        .slider-container .container{
+    width: 300vw;
+    height: 100vh;
+    background-color:red ;
+    transition: all ease-in-out 1s;
+}
+
+
+
+  
